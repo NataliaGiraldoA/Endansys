@@ -12,7 +12,7 @@ Colombia es el segundo país más biodiverso del mundo, con 54.875 especies regi
 
 **EndanSys** responde a esta crisis combinando visión por computador y deep learning para permitir que cualquier persona —desde estudiantes hasta comunidades rurales— pueda:
 
-- \*Identificar\*\* una especie animal a partir de una fotografía
+- **Identificar** una especie animal a partir de una fotografía
 - **Clasificar** si la especie está o no en peligro de extinción
 - **Conocer** información contextual: nombre científico, alimentación y hábitat
 - **Visualizar** las regiones de Colombia donde habita la especie identificada
